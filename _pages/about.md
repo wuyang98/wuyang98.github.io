@@ -21,11 +21,16 @@ My research interests lie in open-world computer vision, with a particular focus
 
 <h2 id="honors-and-awards">🏆 Honors and Awards</h2>
 
-<!-- Add your honors and awards here -->
+-2026.06: Outstanding Doctoral Fellowship (Top 1%), NJUST
+-2023.07: Best Student Paper Award, IEEE International Conference on Multimedia and Expo
+-2022.11: National Graduate Scholarship (Top 2%), NUIST
+-2021.12: Second Prize in National Post-Graduate Mathematical Contest in Modeling, Hua Wei
+-2018.07: First Prize in National Undergraduate Electronics Design Contest (Jiangsu), Texas Instruments
 
 <h2 id="internships">💼 Internships</h2>
 
-<!-- Add your internship experience here -->
+- 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
+- 2025.04--2025.08: Star Program Intern, [![DiDi](/images/didi.png){: style="height: 1em; vertical-align: middle;"}](https://www.didiglobal.com/) DiDi | [![Kargobot](/images/kargobot.png){: style="height: 1em; vertical-align: middle;"}](https://www.kargo-bot.com/) Kargobot, Shanghai
 
 <h2 id="academic-services">🤝 Academic Services</h2>
 
