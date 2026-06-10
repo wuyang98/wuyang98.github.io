@@ -53,5 +53,5 @@ redirect_from:
 <h2 id="visitor-map">🌐 Visitor Map</h2>
 
 <div style="text-align: center;">
-<iframe src="https://revolvermaps2.com/widget/b4d78c06-ccd5-4014-980d-57e400c6eee8" width="320" height="320" style="border:0;" loading="lazy"></iframe>
+<a href="https://www.flagcounter.me/details/hwF"><img src="https://www.flagcounter.me/hwF/" alt="Flag Counter"></a>
 </div>
