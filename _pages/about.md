@@ -21,7 +21,7 @@ redirect_from:
 - 2024.04: One paper was accepted by **Frontiers of Computer Science**.
 - 2024.03: One paper was accepted by **ICME 2024**.
 - 2023.10: One paper was accepted by **IEEE Geoscience and Remote Sensing Letters**.
-- 2023.07: Our paper "Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection" was selected as **the Best Student Paper** 🏆 of ICME 2023 (1/1413).
+- 2023.07: Our paper "Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection" was selected as **the Best Student Paper** 🏆 of **ICME 2023** (1/1413).
 - 2023.03: One paper was accepted by **CVPR 2023**.
 - 2023.03: One paper was accepted by **ICME 2023**.
 - 2023.02: One paper was accepted by **ICASSP 2023**.
@@ -53,6 +53,6 @@ redirect_from:
 <h2 id="visitor-map">🌐 Visitor Map</h2>
 
 <!-- BEGIN: Powered by Supercounters.com -->
-<center><script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script><script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1735238,"a1aef5","00ffae",40)</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script><script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1735240,"112288","ff0000",40)</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
 </center>
 <!-- END: Powered by Supercounters.com -->
