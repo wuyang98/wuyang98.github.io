@@ -50,8 +50,9 @@ redirect_from:
 - Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICLR, ACM MM, ICME, ICASSP
 - Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TCSVT, IEEE TIP, PR
 
-<!-- <h2 id="visitor-map">🌐 Visitor Map</h2>
+<h2 id="visitor-map">🌐 Visitor Map</h2>
 
-<div style="text-align: center;">
-<a href="https://www.flagcounter.me/details/hwF"><img src="https://www.flagcounter.me/hwF/" alt="Flag Counter"></a>
-</div> -->
+<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script><script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1735238,"a1aef5","00ffae",40)</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
