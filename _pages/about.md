@@ -13,7 +13,20 @@ redirect_from:
 
 <h2 id="news">📢 News</h2>
 
-- 
+- 2026.02: Two paper was accepted by CVPR 2026.
+- 2026.01: One paper was accepted by ICRA 2026.
+- 2025.09: One paper was accepted by IEEE Transactions on Multimedia.
+- 2025.02: One paper was accepted by CVPR 2025.
+- 2024.07: One paper was accepted by ECCV 2024.
+- 2024.04: One paper was accepted by Frontiers of Computer Science.
+- 2024.03: One paper was accepted by ICME 2024.
+- 2023.10: One paper was accepted by IEEE Geoscience and Remote Sensing Letters.
+- 2023.07: Our paper "Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection" was selected as the Best Student Paper 🏆 of ICME 2023 (1/1413).
+- 2023.03: One paper was accepted by CVPR 2023.
+- 2023.03: One paper was accepted by ICME 2023.
+- 2023.02: One paper was accepted by ICASSP 2023.
+- 2022.12: One paper was accepted by Chinese Journal of Computers.
+- 2022.08: One paper was accepted by IEEE Transactions on Multimedia.
 
 <h2 id="publications">📝 Publications</h2>
 
