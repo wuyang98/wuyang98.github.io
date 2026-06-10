@@ -30,7 +30,7 @@ My research interests lie in open-world computer vision, with a particular focus
 <h2 id="internships">💼 Internships</h2>
 
 - 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
-- 2025.04--2025.08: Star Program Intern, [![DiDi](/images/didi.png){: style="height: 1em; vertical-align: middle;"}](https://www.didiglobal.com/) DiDi | [![Kargobot](/images/kargobot.png){: style="height: 1em; vertical-align: middle;"}](https://en.kargo-bot.com/) Kargobot, Shanghai
+- 2025.04--2025.08: Star Program Intern, [![DiDi](/images/didi.png){: style="height: 1em; vertical-align: middle;"}](https://www.didiglobal.com/) DiDi &#124; [![Kargobot](/images/kargobot.png){: style="height: 1em; vertical-align: middle;"}](https://en.kargo-bot.com/) Kargobot, Shanghai
 
 <h2 id="academic-services">🤝 Academic Services</h2>
 
