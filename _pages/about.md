@@ -26,3 +26,7 @@ My research interests lie in open-world computer vision, with a particular focus
 <h2 id="internships">💼 Internships</h2>
 
 <!-- Add your internship experience here -->
+
+<h2 id="academic-services">🎓 Academic Services</h2>
+
+<!-- Add your academic services here -->
