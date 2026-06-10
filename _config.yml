@@ -22,7 +22,7 @@ repository               : "wuyang98/wuyang98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yangwu.jpg"
   name             : "Yang Wu"
   pronouns         :
   bio              : "Computer Vision Researcher"
