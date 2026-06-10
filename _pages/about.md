@@ -11,5 +11,18 @@ I am currently pursuing my Ph.D. at the PCA Lab, Nanjing University of Science a
 
 My research interests lie in open-world computer vision, with a particular focus on generative 3D scene reconstruction and simulation, as well as world-model-driven foreseeing and decision-making. Previously, I also worked on 2D vision, focusing on open-world image segmentation and depth estimation.
 
-## News
+<h2 id="news">📢 News</h2>
+
 -
+
+<h2 id="publications">📝 Publications</h2>
+
+<!-- Add your publications here -->
+
+<h2 id="honors-and-awards">🏆 Honors and Awards</h2>
+
+<!-- Add your honors and awards here -->
+
+<h2 id="internships">💼 Internships</h2>
+
+<!-- Add your internship experience here -->
