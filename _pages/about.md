@@ -49,10 +49,10 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 <div>
-
-- Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICLR, ACM MM, ICME, ICASSP
-- Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TCSVT, IEEE TIP, PR
-
+<ul>
+<li>Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICLR, ACM MM, ICME, ICASSP</li>
+<li>Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TCSVT, IEEE TIP, PR</li>
+</ul>
 </div>
 <div>
 <!-- BEGIN: Powered by Supercounters.com -->
