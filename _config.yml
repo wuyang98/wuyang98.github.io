@@ -25,16 +25,16 @@ author:
   avatar           : "yangwu.jpg"
   name             : "Yang Wu"
   pronouns         :
-  bio              : "Computer Vision Researcher"
+  bio              : "Ph.D. candidate at PCA Lab | NJUST, focusing on world models for simulation and foreseeing."
   location         : "China"
   employer         :
   uri              :
-  email            :
+  email            : "wuy98419@163.com"
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : # "https://scholar.google.com/citations?user=YOURID"
+  googlescholar    : "https://scholar.google.com/citations?user=LbOePH8AAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            :
