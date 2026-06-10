@@ -47,12 +47,16 @@ redirect_from:
 
 <h2 id="academic-services">🤝 Academic Services</h2>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div>
+
 - Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICLR, ACM MM, ICME, ICASSP
 - Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TCSVT, IEEE TIP, PR
 
-<h2 id="visitor-map">🌐 Visitor Map</h2>
-
+</div>
+<div>
 <!-- BEGIN: Powered by Supercounters.com -->
-<center><script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script><script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1735240,"112288","ff0000",40)</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
-</center>
+<script type="text/javascript" src="//widget.supercounters.com/ssl/map.js"></script><script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1735240,"112288","ff0000",40)</script><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
 <!-- END: Powered by Supercounters.com -->
+</div>
+</div>
