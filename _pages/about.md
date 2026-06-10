@@ -52,4 +52,6 @@ redirect_from:
 
 <h2 id="visitor-map">🌐 Visitor Map</h2>
 
+<div style="text-align: center;">
 <iframe src="https://revolvermaps2.com/widget/02b44e9a-46d2-4b90-938f-1ba090f212e1" width="320" height="320" style="border:0;" loading="lazy"></iframe>
+</div>
