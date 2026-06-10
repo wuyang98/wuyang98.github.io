@@ -13,11 +13,11 @@ My research interests lie in open-world computer vision, with a particular focus
 
 <h2 id="news">📢 News</h2>
 
--
+- 
 
 <h2 id="publications">📝 Publications</h2>
 
-<!-- Add your publications here -->
+- 
 
 <h2 id="honors-and-awards">🏆 Honors and Awards</h2>
 
