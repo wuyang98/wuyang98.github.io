@@ -15,20 +15,27 @@ redirect_from:
 
 <h2 id="news">📢 News</h2>
 
-- 2026.02: Two paper was accepted by **CVPR 2026**.
-- 2026.01: One paper was accepted by **ICRA 2026**.
-- 2025.09: One paper was accepted by **IEEE Transactions on Multimedia**.
-- 2025.02: One paper was accepted by **CVPR 2025**.
-- 2024.07: One paper was accepted by **ECCV 2024**.
-- 2024.04: One paper was accepted by **Frontiers of Computer Science**.
-- 2024.03: One paper was accepted by **ICME 2024**.
-- 2023.10: One paper was accepted by **IEEE Geoscience and Remote Sensing Letters**.
-- 2023.07: Our paper "Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection" was selected as **the Best Student Paper** 🏆 of **ICME 2023** (1/1413).
-- 2023.03: One paper was accepted by **CVPR 2023**.
-- 2023.03: One paper was accepted by **ICME 2023**.
-- 2023.02: One paper was accepted by **ICASSP 2023**.
-- 2022.12: One paper was accepted by **Chinese Journal of Computers**.
-- 2022.08: One paper was accepted by **IEEE Transactions on Multimedia**.
+<ul>
+  <li>2026.02: Two paper was accepted by <strong>CVPR 2026</strong>.</li>
+  <li>2026.01: One paper was accepted by <strong>ICRA 2026</strong>.</li>
+  <li>2025.09: One paper was accepted by <strong>IEEE Transactions on Multimedia</strong>.</li>
+  <li>2025.02: One paper was accepted by <strong>CVPR 2025</strong>.</li>
+  <li>2024.07: One paper was accepted by <strong>ECCV 2024</strong>.</li>
+  <li>2024.04: One paper was accepted by <strong>Frontiers of Computer Science</strong>.</li>
+  <li>2024.03: One paper was accepted by <strong>ICME 2024</strong>.</li>
+  <li>2023.10: One paper was accepted by <strong>IEEE Geoscience and Remote Sensing Letters</strong>.</li>
+  <li>2023.07: Our paper "Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection" was selected as <strong>the Best Student Paper</strong> 🏆 of <strong>ICME 2023</strong> (1/1413).</li>
+  <li>2023.03: One paper was accepted by <strong>CVPR 2023</strong>.</li>
+</ul>
+
+<ul id="news-more" style="display:none;">
+  <li>2023.03: One paper was accepted by <strong>ICME 2023</strong>.</li>
+  <li>2023.02: One paper was accepted by <strong>ICASSP 2023</strong>.</li>
+  <li>2022.12: One paper was accepted by <strong>Chinese Journal of Computers</strong>.</li>
+  <li>2022.08: One paper was accepted by <strong>IEEE Transactions on Multimedia</strong>.</li>
+</ul>
+
+<a href="#" id="news-toggle" onclick="(function(e){e.preventDefault();var m=document.getElementById('news-more');var t=document.getElementById('news-toggle');if(m.style.display==='none'){m.style.display='block';t.textContent='Less'}else{m.style.display='none';t.textContent='More'}})(event)" style="font-size:0.9em;">More</a>
 
 <h2 id="publications">📝 Selected Publications</h2>
 
@@ -57,6 +64,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </ul>
 </div>
 </div>
+
+<div id="publications-more" style="display:none;">
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
@@ -132,6 +141,10 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 </ul>
 </div>
 </div>
+
+</div>
+
+<a href="#" id="publications-toggle" onclick="(function(e){e.preventDefault();var m=document.getElementById('publications-more');var t=document.getElementById('publications-toggle');if(m.style.display==='none'){m.style.display='block';t.textContent='Less'}else{m.style.display='none';t.textContent='More'}})(event)" style="font-size:0.9em;">More</a>
 
 
 
