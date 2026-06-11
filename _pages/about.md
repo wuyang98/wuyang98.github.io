@@ -93,6 +93,19 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/HrSSNM_ieee_tmm2022.png" alt="HrSSNM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9857671"><strong>Deep Object Co-segmentation and Co-saliency Detection via High-order Spatial-Semantic Network Modulation, IEEE TMM2022</strong></a><br>
+Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo Liu, Dong Liu, Qingshan Liu<br>
+<ul style="margin-top: 5px;">
+<li>We further analyze and elucidate the similarities and differences between CSG and CSD tasks, and propose a joint processing framework.</li>
+<li>We design an adaptive spatial modulation branch to learn a spatial representation for each cluster.</li>
+<li>We design a high-order semantic modulation branch to transform the convolutional features with high-order statistics for object classification.</li>
+</ul>
+</div>
+</div>
+
 <h2 id="internships">💼 Internships</h2>
 
 - 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
