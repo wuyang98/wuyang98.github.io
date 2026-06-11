@@ -33,7 +33,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
-<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba, CVPR2026</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
 <strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px;">
 <li>We introduce a LiDAR scene tokenizer, designed for latent representation of LiDAR data.</li>
@@ -46,7 +46,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
-<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation, cvpr2026</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
 Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
 <ul style="margin-top: 5px;">
 <li>We propose a Text-to-LiDAR Diffusion Model, T2LDM, with a self-conditioned representation guidance.</li>
@@ -59,7 +59,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
-<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, CVPR2025</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
 <strong>Yang Wu</strong>, Yun Zhu, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
 <ul style="margin-top: 5px;">
 <li>We propose WeatherGen, the first unified framework for generating diverse weather LiDAR data.</li>
@@ -71,11 +71,24 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/Text2LiDAR_eccv2024.png" alt="Text2LiDAR" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
-<a href="https://arxiv.org/pdf/2407.19628?"><strong>Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer</strong></a> (<a href="https://github.com/wuyang98/Text2LiDAR">Code</a>)<br>
+<a href="https://arxiv.org/pdf/2407.19628?"><strong>Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer, ECCV2024</strong></a> (<a href="https://github.com/wuyang98/Text2LiDAR">Code</a>)<br>
 <strong>Yang Wu</strong>, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
 <ul style="margin-top: 5px;">
 <li>We propose the first effective text-controllable LiDAR point cloud generation framework, Text2LiDAR.</li>
 <li>To advance the field of LiDAR point cloud generation, nuLiDARtext is constructed, comprising 34,149 pairs of text-LiDAR data.</li>
+</ul>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/CoGEM_cvpr2023.png" alt="CoGEM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf"><strong>Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking, CVPR2023</strong></a> (<a href="https://github.com/wuyang98/CoSOD">Code</a>)<br>
+<strong>Yang Wu</strong>, Huihui Song, Bo Liu, Kaihua Zhang, Dong Liu<br>
+<ul style="margin-top: 5px;">
+<li>A robust CoSOD model learning mechanism, called group exchange-masking is proposed.</li>
+<li>Our framework is different from the traditional CoSOD model learning frameworks that use groups of relevant images as training data.</li>
+<li>We propose a dual-path feature extraction module to model the uncertainty and consensus feature.</li>
 </ul>
 </div>
 </div>
