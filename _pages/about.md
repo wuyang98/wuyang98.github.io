@@ -33,8 +33,8 @@ redirect_from:
 <h2 id="publications">📝 Selected Publications</h2>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba, CVPR2026</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
 <strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -46,8 +46,8 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation, cvpr2026</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
 Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -59,8 +59,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2025</strong></a><br>
 <strong>Yang Wu</strong>, Shenglong Hu, Kaihua Zhang, Lingyan Liang, Yaqian Zhao, Gang Dong<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -72,8 +72,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, CVPR2025</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
 <strong>Yang Wu</strong>, Yun Zhu, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -84,8 +84,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/Text2LiDAR_eccv2024.png" alt="Text2LiDAR" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/Text2LiDAR_eccv2024.png" alt="Text2LiDAR" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://arxiv.org/pdf/2407.19628?"><strong>Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer, ECCV2024</strong></a> (<a href="https://github.com/wuyang98/Text2LiDAR">Code</a>)<br>
 <strong>Yang Wu</strong>, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -96,8 +96,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/CoGEM_cvpr2023.png" alt="CoGEM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/CoGEM_cvpr2023.png" alt="CoGEM" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf"><strong>Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking, CVPR2023</strong></a> (<a href="https://github.com/wuyang98/CoSOD">Code</a>)<br>
 <strong>Yang Wu</strong>, Huihui Song, Bo Liu, Kaihua Zhang, Dong Liu<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -109,8 +109,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://ieeexplore.ieee.org/abstract/document/10220031/"><strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong></a> 🏆 <strong>Best Student Paper Award</strong><br>
 <strong>Yang Wu</strong>, Lingyan Liang, Yaqian Zhao, Kaihua Zhang<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
@@ -121,8 +121,8 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/HrSSNM_ieee_tmm2022.png" alt="HrSSNM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
+<img src="/images/publications/HrSSNM_ieee_tmm2022.png" alt="HrSSNM" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
 <a href="https://ieeexplore.ieee.org/abstract/document/9857671"><strong>Deep Object Co-segmentation and Co-saliency Detection via High-order Spatial-Semantic Network Modulation, IEEE TMM2022</strong></a><br>
 Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo Liu, Dong Liu, Qingshan Liu<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
