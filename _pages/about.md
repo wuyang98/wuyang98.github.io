@@ -50,7 +50,7 @@ redirect_from:
 Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
 <ul style="margin-top: 5px;">
 <li>We propose a Text-to-LiDAR Diffusion Model, T2LDM, with a self-conditioned representation guidance.</li>
-<li>We construct a high-quality content-composable TextLiDAR benchmark, T2nuScenes.</li>
+<li>We construct a high-quality content-composable Text-LiDAR benchmark, T2nuScenes.</li>
 <li>By leveraging a directional position prior, T2LDM alleviates road distortion, further improving scene fidelity.</li>
 </ul>
 </div>
@@ -64,6 +64,18 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <ul style="margin-top: 5px;">
 <li>We propose WeatherGen, the first unified framework for generating diverse weather LiDAR data.</li>
 <li>Spider Mamba is devised, which can model the LiDAR feature interactions effectively in a way that can best maintain the physical structure of the LiDAR data.</li>
+</ul>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/Text2LiDAR_eccv2024.png" alt="Text2LiDAR" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<a href="https://arxiv.org/pdf/2407.19628?"><strong>Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer</strong></a> (<a href="https://github.com/wuyang98/Text2LiDAR">Code</a>)<br>
+<strong>Yang Wu</strong>, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
+<ul style="margin-top: 5px;">
+<li>We propose the first effective text-controllable LiDAR point cloud generation framework, Text2LiDAR.</li>
+<li>To advance the field of LiDAR point cloud generation, nuLiDARtext is constructed, comprising 34,149 pairs of text-LiDAR data.</li>
 </ul>
 </div>
 </div>
