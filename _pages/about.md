@@ -31,7 +31,7 @@ redirect_from:
 <h2 id="publications">📝 Selected Publications</h2>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 40%; min-width: 40%; margin-right: 20px;">
+<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
 <strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
@@ -44,7 +44,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 40%; min-width: 40%; margin-right: 20px;">
+<img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
 Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
@@ -57,7 +57,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 40%; min-width: 40%; margin-right: 20px;">
+<img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
 <strong>Yang Wu</strong>, Yun Zhu, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
