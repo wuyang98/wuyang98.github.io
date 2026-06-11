@@ -96,7 +96,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/HrSSNM_ieee_tmm2022.png" alt="HrSSNM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9857671"><strong>Deep Object Co-segmentation and Co-saliency Detection via High-order Spatial-Semantic Network Modulation, IEEE TMM2022</strong></a><br>
+<a href="https://ieeexplore.ieee.org/abstract/document/9857671"><strong>Deep Object Co-segmentation and Co-saliency Detection via High-order Spatial-Semantic Network Modulation, IEEE TMM2022</strong></a><br>
 Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo Liu, Dong Liu, Qingshan Liu<br>
 <ul style="margin-top: 5px;">
 <li>We further analyze and elucidate the similarities and differences between CSG and CSD tasks, and propose a joint processing framework.</li>
@@ -109,7 +109,7 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
-<strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong> 🏆 <strong>Best Student Paper Award</strong><br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10220031/"><strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong></a> 🏆 <strong>Best Student Paper Award</strong><br>
 <strong>Yang Wu</strong>, Lingyan Liang, Yaqian Zhao, Kaihua Zhang<br>
 <ul style="margin-top: 5px;">
 <li>We design a DCM to split different depth layers and subdivide co-salient regions to produce calibrate depth maps.</li>
