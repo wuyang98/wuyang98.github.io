@@ -37,7 +37,7 @@ redirect_from:
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba, CVPR2026</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
 <strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We introduce a LiDAR scene tokenizer, designed for latent representation of LiDAR data.</li>
 <li>We present a LiDAR world model with explicit dynamic-static disentanglement in driving scenes.</li>
 <li>Our framework makes a pioneering contribution to LiDAR world models by enabling "what-if" reasoning.</li>
@@ -50,7 +50,7 @@ redirect_from:
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation, cvpr2026</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
 Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We propose a Text-to-LiDAR Diffusion Model, T2LDM, with a self-conditioned representation guidance.</li>
 <li>We construct a high-quality content-composable Text-LiDAR benchmark, T2nuScenes.</li>
 <li>By leveraging a directional position prior, T2LDM alleviates road distortion, further improving scene fidelity.</li>
@@ -63,7 +63,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="width: 60%; text-align: justify;">
 <a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2025</strong></a><br>
 <strong>Yang Wu</strong>, Shenglong Hu, Kaihua Zhang, Lingyan Liang, Yaqian Zhao, Gang Dong<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>Our SMAFormer utilizes semantic information to calibrate the depth maps through learnable semantic-level clustering.</li>
 <li>We design a SAM guided cluster center extractor to dynamically generate adaptive cluster centers from RGB images.</li>
 <li>We further design a Recurrent Deep Clustering Module to capture patch-level associations iteratively.</li>
@@ -76,7 +76,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, CVPR2025</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
 <strong>Yang Wu</strong>, Yun Zhu, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We propose WeatherGen, the first unified framework for generating diverse weather LiDAR data.</li>
 <li>Spider Mamba is devised, which can model the LiDAR feature interactions effectively in a way that can best maintain the physical structure of the LiDAR data.</li>
 </ul>
@@ -88,7 +88,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="width: 60%; text-align: justify;">
 <a href="https://arxiv.org/pdf/2407.19628?"><strong>Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer, ECCV2024</strong></a> (<a href="https://github.com/wuyang98/Text2LiDAR">Code</a>)<br>
 <strong>Yang Wu</strong>, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We propose the first effective text-controllable LiDAR point cloud generation framework, Text2LiDAR.</li>
 <li>To advance the field of LiDAR point cloud generation, nuLiDARtext is constructed, comprising 34,149 pairs of text-LiDAR data.</li>
 </ul>
@@ -100,7 +100,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf"><strong>Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking, CVPR2023</strong></a> (<a href="https://github.com/wuyang98/CoSOD">Code</a>)<br>
 <strong>Yang Wu</strong>, Huihui Song, Bo Liu, Kaihua Zhang, Dong Liu<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>A robust CoSOD model learning mechanism, called group exchange-masking is proposed.</li>
 <li>Our framework is different from the traditional CoSOD model learning frameworks that use groups of relevant images as training data.</li>
 <li>We propose a dual-path feature extraction module to model the uncertainty and consensus feature.</li>
@@ -108,26 +108,24 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 </div>
 
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
 <a href="https://ieeexplore.ieee.org/abstract/document/10220031/"><strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong></a> 🏆 <strong>Best Student Paper Award</strong><br>
 <strong>Yang Wu</strong>, Lingyan Liang, Yaqian Zhao, Kaihua Zhang<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We design a DCM to split different depth layers and subdivide co-salient regions to produce calibrate depth maps, and set them as intermediate self-supervised signals to improve the generalization of the model.</li>
 <li>A novel CMT is designed for feature extraction and fusion that can fully integrate the complementary knowledge among the RGB and depth features.</li>
 </ul>
 </div>
 </div>
 
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/HrSSNM_ieee_tmm2022.png" alt="HrSSNM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
 <a href="https://ieeexplore.ieee.org/abstract/document/9857671"><strong>Deep Object Co-segmentation and Co-saliency Detection via High-order Spatial-Semantic Network Modulation, IEEE TMM2022</strong></a><br>
 Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo Liu, Dong Liu, Qingshan Liu<br>
-<ul style="margin-top: 5px;">
+<ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We further analyze and elucidate the similarities and differences between CSG and CSD tasks, and propose a joint processing framework.</li>
 <li>We design an adaptive spatial modulation branch to learn a spatial representation for each cluster.</li>
 <li>We design a high-order semantic modulation branch to transform the convolutional features with high-order statistics for object classification.</li>
