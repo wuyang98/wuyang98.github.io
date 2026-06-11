@@ -48,7 +48,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 70%; text-align: justify;">
-<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation, cvpr2026</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation, CVPR2026</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
 Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We propose a Text-to-LiDAR Diffusion Model, T2LDM, with a self-conditioned representation guidance.</li>
@@ -61,7 +61,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 70%; text-align: justify;">
-<a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2025</strong></a><br>
+<a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2026</strong></a><br>
 <strong>Yang Wu</strong>, Shenglong Hu, Kaihua Zhang, Lingyan Liang, Yaqian Zhao, Gang Dong<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
 <li>Our SMAFormer utilizes semantic information to calibrate the depth maps through learnable semantic-level clustering.</li>
