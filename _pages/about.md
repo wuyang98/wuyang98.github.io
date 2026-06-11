@@ -106,6 +106,18 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong> 🏆 <strong>Best Student Paper Award</strong><br>
+<strong>Yang Wu</strong>, Lingyan Liang, Yaqian Zhao, Kaihua Zhang<br>
+<ul style="margin-top: 5px;">
+<li>We design a DCM to split different depth layers and subdivide co-salient regions to produce calibrate depth maps.</li>
+<li>A novel CMT is designed for feature extraction and fusion that can fully integrate the complementary knowledge among the RGB and depth features.</li>
+</ul>
+</div>
+</div>
+
 <h2 id="internships">💼 Internships</h2>
 
 - 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
