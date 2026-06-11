@@ -31,10 +31,10 @@ redirect_from:
 <h2 id="selected publications">📝 Publications</h2>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 200px; min-width: 200px; margin-right: 20px;">
-<div>
-<strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong><br>
-Yang Wu, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
+<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 50%; min-width: 50%; margin-right: 20px;">
+<div style="width: 50%;">
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
+<strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px;">
 <li>We introduce a LiDAR scene tokenizer based on the Mamba architecture, designed for latent representation of LiDAR data.</li>
 <li>We present a LiDAR world model with explicit dynamic-static disentanglement in driving scenes.</li>
