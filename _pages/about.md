@@ -57,6 +57,19 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2025</strong></a><br>
+<strong>Yang Wu</strong>, Shenglong Hu, Kaihua Zhang, Lingyan Liang, Yaqian Zhao, Gang Dong<br>
+<ul style="margin-top: 5px;">
+<li>Our SMAFormer utilizes semantic information to calibrate the depth maps through learnable semantic-level clustering.</li>
+<li>We design a SAM guided cluster center extractor to dynamically generate adaptive cluster centers from RGB images.</li>
+<li>We further design a Recurrent Deep Clustering Module to capture patch-level associations iteratively.</li>
+</ul>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, CVPR2025</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
@@ -93,6 +106,20 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 </div>
 
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<a href="https://ieeexplore.ieee.org/abstract/document/10220031/"><strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong></a> 🏆 <strong>Best Student Paper Award</strong><br>
+<strong>Yang Wu</strong>, Lingyan Liang, Yaqian Zhao, Kaihua Zhang<br>
+<ul style="margin-top: 5px;">
+<li>We design a DCM to split different depth layers and subdivide co-salient regions to produce calibrate depth maps, and set them as intermediate self-supervised signals to improve the generalization of the model.</li>
+<li>A novel CMT is designed for feature extraction and fusion that can fully integrate the complementary knowledge among the RGB and depth features.</li>
+</ul>
+</div>
+</div>
+
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/HrSSNM_ieee_tmm2022.png" alt="HrSSNM" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 60%; text-align: justify;">
@@ -106,30 +133,7 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/OCDFormer_icme2023.png" alt="OCDFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
-<a href="https://ieeexplore.ieee.org/abstract/document/10220031/"><strong>Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection, ICME2023</strong></a> 🏆 <strong>Best Student Paper Award</strong><br>
-<strong>Yang Wu</strong>, Lingyan Liang, Yaqian Zhao, Kaihua Zhang<br>
-<ul style="margin-top: 5px;">
-<li>We design a DCM to split different depth layers and subdivide co-salient regions to produce calibrate depth maps.</li>
-<li>A novel CMT is designed for feature extraction and fusion that can fully integrate the complementary knowledge among the RGB and depth features.</li>
-</ul>
-</div>
-</div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<div style="width: 60%; text-align: justify;">
-<a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2025</strong></a><br>
-<strong>Yang Wu</strong>, Shenglong Hu, Kaihua Zhang, Lingyan Liang, Yaqian Zhao, Gang Dong<br>
-<ul style="margin-top: 5px;">
-<li>Our SMAFormer utilizes semantic information to calibrate the depth maps through learnable semantic-level clustering.</li>
-<li>We design a SAM guided cluster center extractor to dynamically generate adaptive cluster centers from RGB images.</li>
-<li>We further design a Recurrent Deep Clustering Module to capture patch-level associations iteratively.</li>
-</ul>
-</div>
-</div>
 
 <h2 id="internships">💼 Internships</h2>
 
