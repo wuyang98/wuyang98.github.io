@@ -32,13 +32,26 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 40%; min-width: 40%; margin-right: 20px;">
-<div style="width: 60%;">
+<div style="width: 60%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
 <strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px;">
 <li>We introduce a LiDAR scene tokenizer, designed for latent representation of LiDAR data.</li>
 <li>We present a LiDAR world model with explicit dynamic-static disentanglement in driving scenes.</li>
 <li>Our framework makes a pioneering contribution to LiDAR world models by enabling "what-if" reasoning.</li>
+</ul>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/T2LDM.png" alt="T2LDM" style="width: 40%; min-width: 40%; margin-right: 20px;">
+<div style="width: 60%; text-align: justify;">
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf"><strong>A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation</strong></a> (<a href="https://github.com/QWTforGithub/T2LDM">Code</a>)<br>
+Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang, Liang Xiao<br>
+<ul style="margin-top: 5px;">
+<li>We propose a Text-to-LiDAR Diffusion Model, T2LDM, with a self-conditioned representation guidance.</li>
+<li>We construct a high-quality content-composable TextLiDAR benchmark, T2nuScenes.</li>
+<li>By leveraging a directional position prior, T2LDM alleviates road distortion, further improving scene fidelity.</li>
 </ul>
 </div>
 </div>
