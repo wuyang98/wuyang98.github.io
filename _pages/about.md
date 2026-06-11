@@ -28,15 +28,15 @@ redirect_from:
 - 2022.12: One paper was accepted by **Chinese Journal of Computers**.
 - 2022.08: One paper was accepted by **IEEE Transactions on Multimedia**.
 
-<h2 id="selected publications">📝 Publications</h2>
+<h2 id="publications">📝 Selected Publications</h2>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 50%; min-width: 50%; margin-right: 20px;">
-<div style="width: 50%;">
+<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 40%; min-width: 40%; margin-right: 20px;">
+<div style="width: 60%;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
 <strong>Yang Wu</strong>, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px;">
-<li>We introduce a LiDAR scene tokenizer based on the Mamba architecture, designed for latent representation of LiDAR data.</li>
+<li>We introduce a LiDAR scene tokenizer, designed for latent representation of LiDAR data.</li>
 <li>We present a LiDAR world model with explicit dynamic-static disentanglement in driving scenes.</li>
 <li>Our framework makes a pioneering contribution to LiDAR world models by enabling "what-if" reasoning.</li>
 </ul>
@@ -48,7 +48,7 @@ redirect_from:
 - 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
 - 2025.04--2025.08: Star Program Intern, [![DiDi](/images/didi.png){: style="height: 1em; vertical-align: middle;"}](https://www.didiglobal.com/) DiDi &#124; [![Kargobot](/images/kargobot.png){: style="height: 1em; vertical-align: middle;"}](https://en.kargo-bot.com/) Kargobot, Shanghai
 
-<h2 id="honors-and-awards">🏆 Honors and Awards</h2>
+<h2 id="honors-and-awards">🏆 Selected Honors and Awards</h2>
 
 - 2026.06: Outstanding Doctoral Fellowship (Top 1%), NJUST
 - 2023.07: Best Student Paper Award, IEEE International Conference on Multimedia and Expo (ICME)

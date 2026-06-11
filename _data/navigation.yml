@@ -11,10 +11,10 @@ main:
   - title: "News"
     url: /#news
 
-  - title: "Publications"
+  - title: "Selected Publications"
     url: /#publications
 
-  - title: "Honors and Awards"
+  - title: "Selected Honors and Awards"
     url: /#honors-and-awards
 
   - title: "Internships"
