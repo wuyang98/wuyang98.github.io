@@ -213,6 +213,20 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.author__motto {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-size: $type-size-7;
+  color: var(--global-text-color);
+  opacity: 0.75;
+
+  @include breakpoint($large) {
+    margin-top: 6px;
     margin-bottom: 20px;
   }
 }
