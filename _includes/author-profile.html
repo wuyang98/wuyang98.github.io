@@ -88,6 +88,10 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
+      {% if author.wechat %}
+        <li><a href="javascript:void(0)" onclick="document.getElementById('wechat-qr').style.display=document.getElementById('wechat-qr').style.display==='none'?'block':'none'"><i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat</a></li>
+        <li id="wechat-qr" style="display:none;"><img src="{{ '/images/wechart.jpg' | prepend: base_path }}" alt="WeChat QR Code" style="max-width:150px;"></li>
+      {% endif %}
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}      
