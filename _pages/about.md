@@ -56,6 +56,18 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/WeatherGen_cvpr2025.png" alt="WeatherGen" style="width: 40%; min-width: 40%; margin-right: 20px;">
+<div style="width: 60%; text-align: justify;">
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.pdf"><strong>WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion</strong></a> (<a href="https://github.com/wuyang98/weathergen">Code</a>)<br>
+<strong>Yang Wu</strong>, Yun Zhu, Kaihua Zhang, Jianjun Qian, Jin Xie, Jian Yang<br>
+<ul style="margin-top: 5px;">
+<li>We propose WeatherGen, the first unified framework for generating diverse weather LiDAR data.</li>
+<li>Spider Mamba is devised, which can model the LiDAR feature interactions effectively in a way that can best maintain the physical structure of the LiDAR data.</li>
+</ul>
+</div>
+</div>
+
 <h2 id="internships">💼 Internships</h2>
 
 - 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
