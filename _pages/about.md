@@ -118,6 +118,19 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 40%; min-width: 40%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 60%; text-align: justify;">
+<a href="https://ieeexplore.ieee.org/abstract/document/11427030"><strong>Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection, IEEE TMM2025</strong></a><br>
+<strong>Yang Wu</strong>, Shenglong Hu, Kaihua Zhang, Lingyan Liang, Yaqian Zhao, Gang Dong<br>
+<ul style="margin-top: 5px;">
+<li>Our SMAFormer utilizes semantic information to calibrate the depth maps through learnable semantic-level clustering.</li>
+<li>We design a SAM guided cluster center extractor to dynamically generate adaptive cluster centers from RGB images.</li>
+<li>We further design a Recurrent Deep Clustering Module to capture patch-level associations iteratively.</li>
+</ul>
+</div>
+</div>
+
 <h2 id="internships">💼 Internships</h2>
 
 - 2025.08--Now: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
