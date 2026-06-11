@@ -28,9 +28,20 @@ redirect_from:
 - 2022.12: One paper was accepted by **Chinese Journal of Computers**.
 - 2022.08: One paper was accepted by **IEEE Transactions on Multimedia**.
 
-<h2 id="publications">📝 Publications</h2>
+<h2 id="selected publications">📝 Publications</h2>
 
-- 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 200px; min-width: 200px; margin-right: 20px;">
+<div>
+<strong>GEM: Generating LiDAR World Model via Deformable Mamba</strong><br>
+Yang Wu, Zhaojiang Liu, Qiang Meng, Youquan Liu, Renliang Weng, Jianjun Qian, Jian Yang, Jin Xie<br>
+<ul style="margin-top: 5px;">
+<li>We introduce a LiDAR scene tokenizer based on the Mamba architecture, designed for latent representation of LiDAR data.</li>
+<li>We present a LiDAR world model with explicit dynamic-static disentanglement in driving scenes.</li>
+<li>Our framework makes a pioneering contribution to LiDAR world models by enabling "what-if" reasoning.</li>
+</ul>
+</div>
+</div>
 
 <h2 id="internships">💼 Internships</h2>
 
