@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="text-align: justify;">My research interests lie in multimodal open-world computer vision, with a particular focus on <strong>generative 3D scene reconstruction and simulation</strong>, as well as <strong>world-model-driven foreseeing and decision-making</strong>. Previously, I also worked on 2D vision, focusing on open-world image segmentation and depth estimation.</p>
 
-<!-- <strong>I'm currently exploring opportunities in both academia (postdoc) and industry (research scientist / engineer roles). Feel free to reach out if you're interested</strong>. -->
+<strong>I'm currently exploring opportunities in both academia (postdoc) and industry (research scientist / engineer roles). Feel free to reach out if you're interested</strong>.
 
 <h2 id="news">📢 News</h2>
 
@@ -150,7 +150,7 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 
 <h2 id="internships">💼 Internships</h2>
 
-- 2025.08--Present: Off-cycle Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
+- 2025.08--Present: Long-term Intern, [![Momenta](/images/momenta.png){: style="height: 1em; vertical-align: middle;"}](https://www.momenta.cn/en/) Momenta, Suzhou
 - 2025.04--2025.08: Star Program Intern, [![DiDi](/images/didi.png){: style="height: 1em; vertical-align: middle;"}](https://www.didiglobal.com/) DiDi &#124; [![Kargobot](/images/kargobot.png){: style="height: 1em; vertical-align: middle;"}](https://en.kargo-bot.com/) Kargobot, Shanghai
 - 2021.03--2023.06: HPC Cluster Intern, [![Sitonholy](/images/sitonholy.png){: style="height: 1em; vertical-align: middle;"}](https://en.aiserver.cn/about) Sitonholy, Nanjing
 
