@@ -160,7 +160,7 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 - 2023.07: Best Student Paper Award, IEEE International Conference on Multimedia and Expo (ICME)
 - 2023.06: Jiangsu Provincial Merit Student (Top 1‰), JSDE &#124; CYLC-JS
 - 2022.11: National Graduate Scholarship (Top 2%), NUIST
-- 2021.12: Second Prize in National Post-Graduate Mathematical Contest in Modeling, Hua Wei
+- 2021.12: Second Prize in National Post-Graduate Mathematical Contest in Modeling, JSDE
 - 2019.05: Jiangsu Provincial Outstanding Student Leader (Top 1‰), JSDE &#124; CYL-JS
 - 2018.11: Second Prize in National College Student Robot Competition (Jiangsu), JSDE
 - 2018.07: First Prize in National Undergraduate Electronics Design Contest (Jiangsu), Texas Instruments
