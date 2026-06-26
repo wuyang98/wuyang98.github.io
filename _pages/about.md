@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">I am pursuing my Ph.D. in computer science and technology at the PCA Lab, Nanjing University of Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=en">Jin Xie</a>, and the lab is headed by Professor <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=en">Jian Yang</a>, and I am expected to graduate in <strong>Spring 2027</strong>. Previously, I completed my bachelor's degrees in electrical engineering & automation and master's degrees in control science & engineering at the B-DAT Lab, Nanjing University of Information Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=en">Kaihua Zhang</a>, with the lab directed by Professor <a href="https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en">Qingshan Liu</a>.</p>
+<p style="text-align: justify;">I am pursuing my Ph.D. in computer science and technology at the PCA Lab, Nanjing University of Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=en">Jin Xie</a>, and the lab is headed by Professor <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=en">Jian Yang</a>, and I am expected to graduate in <strong>March 2027</strong>. Previously, I completed my bachelor's degrees in electrical engineering & automation and master's degrees in control science & engineering at the B-DAT Lab, Nanjing University of Information Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=en">Kaihua Zhang</a>, with the lab directed by Professor <a href="https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en">Qingshan Liu</a>.</p>
 
 <p style="text-align: justify;">My research interests lie in multimodal open-world computer vision, with a particular focus on <strong>generative 3D scene reconstruction and simulation</strong>, as well as <strong>world-model-driven foreseeing and decision-making</strong>. Previously, I also worked on 2D vision, focusing on open-world image segmentation and depth estimation.</p>
 
@@ -170,8 +170,8 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 <div>
 <ul>
-<li>Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICLR, ACM MM, ICME, ICASSP</li>
-<li>Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TCSVT, IEEE TIP, PR</li>
+<li>Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML</li>
+<li>Journal Reviewer: TPAMI, IJCV, TIP, TNNLS, TMM, TCSVT, PR</li>
 </ul>
 </div>
 <div>
