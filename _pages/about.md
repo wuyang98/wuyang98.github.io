@@ -40,6 +40,19 @@ redirect_from:
 <h2 id="publications">📝 Selected Publications</h2>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/publications/Cophy_Arxiv2026.png" alt="CoPhy" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<div style="width: 70%; text-align: justify;">
+<a href="https://arxiv.org/abs/2605.21139"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving, arXiv2026</strong></a><br>
+<strong>Yang Wu</strong>, Qiang Meng, Zhaojiang Liu, Youquan Liu, Jian Yang, Jin Xie<br>
+<ul style="margin-top: 5px; margin-bottom: 0;">
+<li>It grounds cognitive priors into spatial perception at zero inference cost via cognitive prior distillation.</li>
+<li>It can integrate an explicit BEV world model to perform cognitive-physical policy optimization, breaking through the ceiling of imitation learning.</li>
+<li>CoPhy functions as a controllable yet safe system capable of interpreting diverse human instructions.</li>
+</ul>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/GEM_cvpr2026.png" alt="GEM" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 <div style="width: 70%; text-align: justify;">
 <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GEM_Generating_LiDAR_World_Model_via_Deformable_Mamba_CVPR_2026_paper.pdf"><strong>GEM: Generating LiDAR World Model via Deformable Mamba, CVPR2026</strong></a> (<a href="https://github.com/wuyang98/GEM">Code</a>, <a href="https://wuyang98.github.io/GEM/">Project</a>)<br>
