@@ -28,16 +28,12 @@ redirect_from:
   <li>2023.03: One paper was accepted by <strong>CVPR 2023</strong>.</li>
 </ul>
 
-<!-- news less/more toggle disabled
-<ul id="news-more" style="display:none;">
+<ul>
   <li>2023.03: One paper was accepted by <strong>ICME 2023</strong>.</li>
   <li>2023.02: One paper was accepted by <strong>ICASSP 2023</strong>.</li>
   <li>2022.12: One paper was accepted by <strong>Chinese Journal of Computers</strong>.</li>
   <li>2022.08: One paper was accepted by <strong>IEEE Transactions on Multimedia</strong>.</li>
 </ul>
-
-<a href="#" id="news-toggle" onclick="(function(e){e.preventDefault();var m=document.getElementById('news-more');var t=document.getElementById('news-toggle');if(m.style.display==='none'){m.style.display='block';t.textContent='Less'}else{m.style.display='none';t.textContent='More'}})(event)" style="font-size:0.9em;">More</a>
--->
 
 <h2 id="publications">📝 Selected Publications</h2>
 
@@ -80,8 +76,7 @@ Wentao Qu, Guofeng Mei, <strong>Yang Wu</strong>, Yongshun Gong, Xiaoshui Huang,
 </div>
 </div>
 
-<!-- publications less/more toggle disabled
-<div id="publications-more" style="display:none;">
+<div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <img src="/images/publications/SMAFormer_ieee_tmm2026.png" alt="SMAFormer" style="width: 30%; min-width: 30%; margin-right: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
@@ -159,9 +154,6 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 </div>
 
 </div>
--->
-
-<!-- <a href="#" id="publications-toggle" onclick="(function(e){e.preventDefault();var m=document.getElementById('publications-more');var t=document.getElementById('publications-toggle');if(m.style.display==='none'){m.style.display='block';t.textContent='Less'}else{m.style.display='none';t.textContent='More'}})(event)" style="font-size:0.9em;">More</a> -->
 
 
 
