@@ -45,9 +45,9 @@ redirect_from:
 <a href="https://arxiv.org/abs/2605.21139"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving, arXiv2026</strong></a><br>
 <strong>Yang Wu</strong>, Qiang Meng, Zhaojiang Liu, Youquan Liu, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
-<li>It grounds cognitive priors into spatial perception at zero inference cost via cognitive prior distillation.</li>
-<li>It can integrate an explicit BEV world model to perform cognitive-physical policy optimization, breaking through the ceiling of imitation learning.</li>
-<li>CoPhy functions as a controllable yet safe system capable of interpreting diverse human instructions.</li>
+<li>We ground cognitive priors into spatial perception at zero inference cost via cognitive prior distillation.</li>
+<li>Our method can integrate an explicit BEV world model to perform cognitive-physical policy optimization, breaking through the ceiling of imitation learning.</li>
+<li>Our method can function as a controllable yet safe system capable of interpreting diverse human instructions.</li>
 </ul>
 </div>
 </div>
