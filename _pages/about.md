@@ -165,12 +165,12 @@ Kaihua Zhang*, <strong>Yang Wu*</strong>(Equal Contribution), Mingliang Dong, Bo
 
 <h2 id="honors-and-awards">🏆 Selected Honors and Awards</h2>
 
-- 2026.06: Outstanding Doctoral Fellowship (Top 1%), NJUST
+- 2026.06: Outstanding Doctoral Fellowship (南理工优秀博士培养对象资助) (Top 1%), NJUST
 - 2023.07: Best Student Paper Award, IEEE International Conference on Multimedia and Expo (ICME)
-- 2023.06: Jiangsu Provincial Merit Student (Top 1‰), JSDE &#124; CYLC-JS
-- 2022.11: National Graduate Scholarship (Top 2%), NUIST
+- 2023.06: Jiangsu Provincial Merit Student (省三好) (Top 1‰), JSDE &#124; CYLC-JS
+- 2022.11: National Graduate Scholarship (国家奖学金) (Top 2%), NUIST
 - 2021.12: Second Prize in National Post-Graduate Mathematical Contest in Modeling, JSDE
-- 2019.05: Jiangsu Provincial Outstanding Student Leader (Top 1‰), JSDE &#124; CYL-JS
+- 2019.05: Jiangsu Provincial Outstanding Student Leader (省优干) (Top 1‰), JSDE &#124; CYL-JS
 - 2018.11: Second Prize in National College Student Robot Competition (Jiangsu), JSDE
 - 2018.07: First Prize in National Undergraduate Electronics Design Contest (Jiangsu), Texas Instruments
 
