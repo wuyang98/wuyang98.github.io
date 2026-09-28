@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">I am pursuing my Ph.D. in computer science and technology at the PCA Lab, Nanjing University of Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=en">Jin Xie</a>, and the lab is headed by Professor <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=en">Jian Yang</a>, and I am expected to graduate in <strong>March 2027</strong>. Previously, I completed my bachelor's degrees in electrical engineering & automation and master's degrees in control science & engineering at the B-DAT Lab, Nanjing University of Information Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=en">Kaihua Zhang</a>, with the lab directed by Professor <a href="https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en">Qingshan Liu</a>.</p>
+<p style="text-align: justify;">I am pursuing my Ph.D. in computer science and technology at the PCA Lab, Nanjing University of Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=Q7QqJPEAAAAJ&hl=en">Jin Xie</a>, and the lab is headed by Professor <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=en">Jian Yang</a>, and I am expected to graduate in <strong>Jun 2027</strong>. Previously, I completed my bachelor's degrees in electrical engineering & automation and master's degrees in control science & engineering at the B-DAT Lab, Nanjing University of Information Science and Technology, under the supervision of Professor <a href="https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=en">Kaihua Zhang</a>, with the lab directed by Professor <a href="https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en">Qingshan Liu</a>.</p>
 
 <p style="text-align: justify;">My research interests lie in multimodal open-world computer vision, with a particular focus on <strong>embodied AI</strong>, <strong>generative 3D scene reconstruction and simulation</strong>, as well as <strong>world-model-driven foreseeing and decision-making</strong>. Previously, I also worked on 2D vision, focusing on open-world image segmentation and depth estimation.</p>
 
@@ -16,6 +16,7 @@ redirect_from:
 <h2 id="news">📢 News</h2>
 
 <ul>
+  <li>2026.09: One paper was accepted by <strong>NeurIPS 2026</strong>.</li>
   <li>2026.02: Two paper was accepted by <strong>CVPR 2026</strong>.</li>
   <li>2026.01: One paper was accepted by <strong>ICRA 2026</strong>.</li>
   <li>2025.09: One paper was accepted by <strong>IEEE Transactions on Multimedia</strong>.</li>
@@ -40,10 +41,10 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 <div style="position: relative; width: 30%; min-width: 30%; margin-right: 20px; flex-shrink: 0;">
 <img src="/images/publications/Cophy_Arxiv2026.png" alt="CoPhy" style="width: 100%; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-<span style="position: absolute; top: 6px; left: 6px; background-color: #1565c0; color: #fff; font-size: 0.7em; font-weight: 700; line-height: 1; padding: 3px 6px; border-radius: 3px; white-space: nowrap;">arXiv 2026</span>
+<span style="position: absolute; top: 6px; left: 6px; background-color: #1565c0; color: #fff; font-size: 0.7em; font-weight: 700; line-height: 1; padding: 3px 6px; border-radius: 3px; white-space: nowrap;">NeurIPS 2026</span>
 </div>
 <div style="width: 70%; text-align: justify;">
-<a href="https://arxiv.org/abs/2605.21139"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving, arXiv2026</strong></a><br>
+<a href="https://arxiv.org/abs/2605.21139"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving, NeurIPS2026</strong></a><br>
 <strong>Yang Wu</strong>, Qiang Meng, Zhaojiang Liu, Youquan Liu, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We ground cognitive priors into spatial perception at zero inference cost via cognitive prior distillation.</li>
