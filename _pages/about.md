@@ -16,6 +16,7 @@ redirect_from:
 <h2 id="news">📢 News</h2>
 
 <ul>
+  <li>2026.10: I was recognized as a <strong>Top Reviewer</strong> of <strong>NeurIPS 2026</strong>.</li>
   <li>2026.09: One paper was accepted by <strong>NeurIPS 2026</strong>.</li>
   <li>2026.02: Two paper was accepted by <strong>CVPR 2026</strong>.</li>
   <li>2026.01: One paper was accepted by <strong>ICRA 2026</strong>.</li>
