@@ -45,7 +45,7 @@ redirect_from:
 <span style="position: absolute; top: 6px; left: 6px; background-color: #1565c0; color: #fff; font-size: 0.7em; font-weight: 700; line-height: 1; padding: 3px 6px; border-radius: 3px; white-space: nowrap;">NeurIPS 2026</span>
 </div>
 <div style="width: 70%; text-align: justify;">
-<a href="https://arxiv.org/abs/2605.21139"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving, NeurIPS2026</strong></a><br>
+<a href="https://arxiv.org/abs/2605.21139"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving, NeurIPS2026</strong></a> (<a href="https://github.com/wuyang98/CoPhy">Code</a>, <a href="https://wuyang98.github.io/CoPhy/">Project</a>)<br>
 <strong>Yang Wu</strong>, Qiang Meng, Zhaojiang Liu, Youquan Liu, Jian Yang, Jin Xie<br>
 <ul style="margin-top: 5px; margin-bottom: 0;">
 <li>We ground cognitive priors into spatial perception at zero inference cost via cognitive prior distillation.</li>
